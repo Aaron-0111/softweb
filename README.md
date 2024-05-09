@@ -4,10 +4,7 @@
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
-@@ -28,9 +28,758 @@ Validate the HTML code.
-Publish the website in the given URL.
 
-## PROGRAM:
 ### home.html
 
 ```
